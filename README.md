@@ -6,4 +6,4 @@
 
 #### Features to be added:
 * Optimization of code.
-* More possible readings, either through expansion of readings arrays or through predefined arrays with randomized subvariables (such as through \`.... ${x} ..... ${y}...\` etc.
+* More possible readings, either through expansion of readings arrays or through predefined arrays with randomized subvariables (such as through \`.... ${x} ..... ${y}...\` etc).
