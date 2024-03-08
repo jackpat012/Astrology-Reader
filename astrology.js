@@ -216,7 +216,7 @@ const indexGenerator = () => {
 
 const generateHoroscope = () => {
     
-    console.log(`Your sign is ${sign}`);
+    console.log(`Your sign is ${sign}.`);
 
     if (sign === 'Aries') {
         console.log(`${_aries[indexDisposition]}.`);
@@ -270,7 +270,7 @@ const generateHoroscope = () => {
 
 }
 
-
+// All-in-one function.
 const finalGenerator = (birthMonth, birthDay) => {
 convertBirthday(birthMonth,birthDay);
 getCurrentThird();
